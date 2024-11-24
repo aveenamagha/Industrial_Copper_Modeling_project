@@ -72,9 +72,12 @@ Model Performance:
 Selling Price Prediction:
 
 93% Accuracy
+
+
 Sales Status Prediction:
 
 96% Accuracy
+
 Models Used: Implemented Random Forest Regressor and Random Forest Classifier for accurate and interpretable predictions. 
 
 # Summary
